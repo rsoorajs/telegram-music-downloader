@@ -5,4 +5,3 @@ bs4
 requests
 youtube-dl
 ffmpeg
-avconv
